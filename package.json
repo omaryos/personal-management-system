@@ -125,6 +125,6 @@
     "trumbowyg": "^2.21.0",
     "tui-calendar": "^1.13.0",
     "twig": "^1.15.2",
-    "video.js": "^7.10.1"
+    "video.js": "^7.12.0"
   }
 }
