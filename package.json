@@ -98,7 +98,7 @@
     "js-base64": "^3.5.2",
     "js-cookie": "^2.2.1",
     "jvectormap": "^2.0.4",
-    "less-loader": "^5.0.0",
+    "less-loader": "^6.0.0",
     "lg-autoplay": "^1.2.1",
     "lg-fullscreen": "^1.2.1",
     "lg-hash": "^1.0.4",
