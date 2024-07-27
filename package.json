@@ -72,7 +72,7 @@
     "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "bootbox": "^5.5.1",
-    "bootstrap": "4.5.3",
+    "bootstrap": "5.0.0",
     "bootstrap-datepicker": "^1.9.0",
     "bootstrap-select": "^1.13.18",
     "bootstrap-toggle": "^2.2.2",
